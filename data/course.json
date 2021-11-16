@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "dbf2373f-c60d-9f20-47d4-25b38fad341b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Civil Society, Social Capital, and the State in Comparative Perspective",
+  "course_description": "In recent years both scholars and policymakers have expressed a remarkable amount of interest in the concepts of social capital and civil society. A growing body of research suggests that the social networks, community norms, and associational activities signified by these concepts can have important effects on social welfare, political stability, economic development, and governmental performance. This discussion based course examines the roles played by these networks, norms, and organizations in outcomes ranging from local public goods provision and the performance of democracies to ethnic conflict and funding for terrorism.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.955",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
